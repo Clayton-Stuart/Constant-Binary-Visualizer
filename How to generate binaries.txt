@@ -1,0 +1,5 @@
+To generate mathematical constants, use Y-Cruncher, then export to a text file. 
+
+For extra large files, use 7-Zip to split a text file into smaller parts. 
+
+Use the Decimal to Binary converter to turn a folder of text files into binaries. 
